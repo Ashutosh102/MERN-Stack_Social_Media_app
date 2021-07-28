@@ -24,8 +24,5 @@
 
 ### Server runs on http://localhost:5000 and client on http://localhost:3000
 
-### Interface 
-
-![alt](https://res.cloudinary.com/devat-channel/image/upload/v1621001242/v-network/Untitled_q3jvqa.png)
 
 
